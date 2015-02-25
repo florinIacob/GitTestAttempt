@@ -9,6 +9,7 @@ public class gitMain {
 		System.out.println("Another line !!");
 		
 		Messager.printMessage("Test message");
+		Messager2.printMessage("Test the branch 2 .");
 	}
 
 }
