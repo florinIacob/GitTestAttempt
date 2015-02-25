@@ -10,6 +10,7 @@ public class gitMain {
 		
 		Messager.printMessage("Test message");
 		Messager2.printMessage("Test the branch 2 .");
+		Messager3.printMessage("TTesting addition of a new file .");
 	}
 
 }
